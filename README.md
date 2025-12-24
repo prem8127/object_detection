@@ -46,3 +46,17 @@ The model recognizes 80+ object types including:
 **Installation errors?**
 - Update pip: `pip install --upgrade pip`
 - Try: `pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu`# image-detection-234567890
+
+---
+
+## 👤 Author
+
+**Prem Sagar**  
+🎓 B.Tech – Computer Science  
+📍 India  
+
+🔗 GitHub: https://github.com/prem8127  
+
+💡 Interests: Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning  
+
+📫 Open to internships, projects, and learning opportunities.
