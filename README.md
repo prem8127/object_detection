@@ -60,3 +60,10 @@ The model recognizes 80+ object types including:
 💡 Interests: Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning  
 
 📫 Open to internships, projects, and learning opportunities.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+© 2025 Prem Sagar. All rights reserved.
